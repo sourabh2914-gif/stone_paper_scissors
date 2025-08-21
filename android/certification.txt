@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the RockPaperScissors 1.0
+---------------------------------------------------
+
+app_name - 						RockPaperScissors
+app_alias - 					rockpaperscissors
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Maharashtra
+app_author_country - 			India
+app_password - 					JJ6RURsHs8s9
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 24th of May 2025 10:38:24 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
